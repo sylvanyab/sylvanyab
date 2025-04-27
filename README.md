@@ -18,8 +18,8 @@
 
 <pre>
       💠 20 anos • Brasil • self-taught student      
-💠 Junior • Cybersec analyst • Python
-💠 computer networks • Cloud computing 
+💠 Visual artist • Cybersec analyst 
+💠 computer networks • python
 💠 Music • Books • Animes • Draw • Rain
 💠 “ Create what you love! ”
 </pre>
