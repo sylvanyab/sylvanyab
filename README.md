@@ -1,7 +1,7 @@
 
 
 
-<img width=100% botton=50px src="https://github.com/sylvanyab/sylvanyab/blob/main/361179851-a5036113-979b-48f3-ac4e-0e5f70e4f132.png"/>
+<img width=100% botton=50px src="imagens/361179851-a5036113-979b-48f3-ac4e-0e5f70e4f132.png"/>
 
 
 <h1 align="center"> ☁️ ༺ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 ༻ ☁️ </h1>
@@ -9,11 +9,11 @@
   
 
 
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="70" />
+<img src="imagens/BackgroundEraser_20240824_212030272.png" height="70" />
   
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="25%" align="right" />
+<img src="imagens/BackgroundEraser_20240824_144603728.png" width="25%" align="right" />
 
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="25%" align="left" />
+<img src="imagens/BackgroundEraser_20240824_144732548.png" width="25%" align="left" />
 
 
 <pre>
@@ -48,7 +48,7 @@
 
 <br>
 
- <img width=100% botton=50px src="https://github.com/sylvanyab/sylvanyab/blob/main/361181152-ab69b893-51e4-43c9-b88c-e012a25b7f74.png"/>
+ <img width=100% botton=50px src="imagens/361181152-ab69b893-51e4-43c9-b88c-e012a25b7f74.png"/>
   
 
 
