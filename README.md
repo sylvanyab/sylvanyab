@@ -1,8 +1,7 @@
 
 
 
-<img width=100% botton=50px src="![361179851-a5036113-979b-48f3-ac4e-0e5f70e4f132](https://github.com/user-attachments/assets/8741ed41-3aa8-40cf-8dd7-9e236ba236c4)
-"/>
+<img width=100% botton=50px src="imagens/361179851-a5036113-979b-48f3-ac4e-0e5f70e4f132.png"/>
 
 
 <h1 align="center"> ☁️ ༺ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 ༻ ☁️ </h1>
@@ -49,8 +48,7 @@
 
 <br>
 
- <img width=100% botton=50px src="![361181152-ab69b893-51e4-43c9-b88c-e012a25b7f74](https://github.com/user-attachments/assets/f2b62f74-abcb-4ab0-8597-a768772443c5)
-"/>
+ <img width=100% botton=50px src="imagens/361181152-ab69b893-51e4-43c9-b88c-e012a25b7f74.png"/>
   
 
 
