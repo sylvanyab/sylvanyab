@@ -20,7 +20,7 @@
       💠 20 anos • Brasil • Autodidata      
 💠 Artista visual • Cibersegurança 
 💠 Redes de computadores • Python
-💠 Musicas • Livros • Animes • Desenhar • Chuva
+💠 Musicas • Livros • Animes • Desenhar 
 💠 “ Crie o que você ama!!! ”
 </pre>
 
