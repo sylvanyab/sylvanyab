@@ -17,11 +17,11 @@
 
 
 <pre>
-      💠 20 anos • Brasil • self-taught student      
-💠 Visual artist • Cybersec analyst 
-💠 computer networks • python
-💠 Music • Books • Animes • Draw • Rain
-💠 “ Create what you love! ”
+      💠 20 anos • Brasil • Autodidata      
+💠 Artista visual • Cibersegurança 
+💠 Redes de computadores • Python
+💠 Musicas • Livros • Animes • Desenhar • Chuva
+💠 “ Crie o que você ama!!! ”
 </pre>
 
 <br>
