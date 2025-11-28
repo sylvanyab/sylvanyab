@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou a Silvania
 
-<!--
-**sylvanyab/sylvanyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou começando minha jornada na área de tecnologia e atualmente estudando **Python** e os fundamentos essenciais de **TI**.
+Meu foco é construir uma base sólida e evoluir para áreas como infraestrutura e, futuramente, cibersegurança.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Aprendizados atuais
+
+* Lógica de programação
+* Python (conceitos iniciais, pequenos scripts)
+* Fundamentos de computação e tecnologia
+* Git & GitHub
+
+---
+
+## 📚 Estou estudando agora
+
+* Bootcamp de Python Backend (DIO)
+* Bases de tecnologia e infraestrutura
+* Boas práticas para organizar projetos
+
+---
+
+## 📌 Projetos iniciais
+
+* **[Adicionar quando estiver pronto]**
+
+---
+
+## 📫 Contato
+
+LinkedIn: [seu link aqui]
