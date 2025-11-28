@@ -1,33 +1,17 @@
 # Olá! Eu sou a Silvania
 
-Estou começando minha jornada na área de tecnologia e atualmente estudando **Python** e os fundamentos essenciais de **TI**.
-Meu foco é construir uma base sólida e evoluir para áreas como infraestrutura e, futuramente, cibersegurança.
+- 📘 Estudando Python e fundamentos de TI  
+- 🔧 Construindo meus primeiros projetos práticos  
+- 🚀 Buscando minha primeira oportunidade na área  
+- 📚 Sempre aprendendo e evoluindo  
+- 🤝 Aberta a colaboração em projetos de estudo  
 
----
 
-## 🛠️ Aprendizados atuais
 
-* Lógica de programação
-* Python (conceitos iniciais, pequenos scripts)
-* Fundamentos de computação e tecnologia
-* Git & GitHub
 
----
 
-## 📚 Estou estudando agora
-
-* Bootcamp de Python Backend (DIO)
-* Bases de tecnologia e infraestrutura
-* Boas práticas para organizar projetos
-
----
-
-## 📌 Projetos iniciais
-
-* **[Adicionar quando estiver pronto]**
-
----
-
-## 📫 Contato
-
-LinkedIn: [seu link aqui]
+## 📊 Estatísticas
+<div style="display: flex; gap: 10px;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sylvanyab&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvanyab&layout=compact&theme=midnight-purple"/>
+</div>
