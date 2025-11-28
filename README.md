@@ -1,4 +1,7 @@
-# Olá! Eu sou a Silvania
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=B24EF7&vCenter=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+---
+
+## Olá! Eu sou a Silvania
 
 - 📘 Estudando Python e fundamentos de TI  
 - 🔧 Construindo meus primeiros projetos práticos  
